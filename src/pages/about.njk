@@ -1,0 +1,63 @@
+---
+layout: base
+tags: nav
+title: Sobre mim
+eleventyNavigation:
+  key: Sobre
+  order: 4
+permalink: /about/
+---
+<div class="page page--about">
+    <header class="page__header">
+        <h1 class="page__title">Hey!</h1>
+    </header>
+    <div class="page__content page__content--fullwidth">
+
+        <div class="about">
+            <div class="about__header">
+                <div class="about__photo">
+                    <img
+                        class="responsive-image js-responsive-image"
+                        src="{{ '/assets/images/max-boeck-800.jpg' | url }}"
+                        srcset="{{ '/assets/images/max-boeck-800.jpg' | url }} 800w, 
+                        {{ '/assets/images/max-boeck-1600.jpg' | url }} 1600w"
+                        sizes="(min-width: 940px) 40vw, 100vw"
+                        alt="Max Böck"
+                    />
+                </div>
+                <div class="about__intro lead">
+                    <p>Me chamo Leonardo, sou farmacêutico e estudante atualmente vivendo em Araucária, Paraná.</p>
+                    <p>
+                        Trabalho nesse projeto a cinco anos, e agora quero buscar mais ainda poder mesclar meu dia a dia com esse blog.
+                    </p>
+                    <p>Meu foco é conhecer e apresentar, ao mesmo tempo, os mais diversos assuntos, seja em texto, áudio ou vídeo.</p>
+                </div>
+            </div>
+            <div class="about__content markdown">
+                <h2>Trabalho e Estudos</h2>
+                <p>
+                    Trabalho como farmacêutico no momento, e sou estudante para carreira policial e para o CACD. 
+                </p>
+            
+                <h2>Projeto</h2>
+                <p>A ideia do projeto é aprender sobre novos assuntos, usando o método de ensino conhecido como PBL - Project Based Learning. Outra ideia é utilizar diferentes meios de comunicação, como Instagram, Podcast e YouTube.</p>
+
+                <p>No futuro, haverá uma prévia de tais projetos aqui.</p>
+
+                <h2>Offline</h2>
+                <p>
+                    Quando não estou no projeto, passo o tempo jogando, ouvindo podcasts ou brincando com Zolpidem e MD. 
+                </p>
+
+                <h2>Online</h2>
+                <ul class="about__social">
+                    <li>{% icon "mastodon" %}<a href="{{ author.social.mastodon.url }}">Mastodon</a></li>
+                    <li>{% icon "github" %}<a href="{{ author.social.github.url }}">Github</a></li>
+                    <li>{% icon "codepen" %}<a href="{{ author.social.codepen.url }}">CodePen</a></li>
+                    <li>{% icon "notist" %}<a href="{{ author.social.notist.url }}">Notist</a></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>

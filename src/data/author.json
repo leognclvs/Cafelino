@@ -1,0 +1,27 @@
+{
+    "name": "Leonardo Gonçalves da Fonseca",
+    "email": "cafelinos@gmail.com",
+    "avatar": "/assets/images/profile.jpeg",
+    "social": {
+        "twitter": {
+            "name": "leo_gnclvs",
+            "url": "https://twitter.com/leo_gnclvs"
+        },
+        "github": {
+            "name": "maxboeck",
+            "url": "https://github.com/maxboeck"
+        },
+        "instagram": {
+            "name": "cafelinos",
+            "url": "https://instagram.com/_cafelinos"
+        },
+        "codepen": {
+            "name": "mxbck",
+            "url": "https://codepen.io/mxbck/"
+        },
+        "notist": {
+            "name": "mxb",
+            "url": "https://noti.st/mxb"
+        }
+    }
+}
