@@ -22,4 +22,4 @@ Disallow: /
 User-agent: FacebookBot
 Disallow: /
 
-Sitemap: https://mxb.dev/sitemap.xml
+Sitemap: https://cafelinos.com.br/sitemap.xml
