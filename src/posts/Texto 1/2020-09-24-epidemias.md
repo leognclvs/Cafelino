@@ -1,6 +1,5 @@
 ---
 title: "Doenças e a humanidade: como o Homo sapiens sobreviveu às epidemias"
-tags: Farmácia
 slug: doencas-humanidade
 image: Ruas.jpg
 description: "O mundo hoje enfrenta uma pandemia. O que já sabemos sobre?"
@@ -74,7 +73,5 @@ Fontes e sugestões:
 **[COVID-19: Knowns, unknowns and questions](https://msphere.asm.org/content/msph/5/2/e00203-20.full.pdf)**
 **[Nerdologia - Coronavírus](https://www.youtube.com/watch?v=e-JaQOeFxtI)**
 **[Nerdologia - Pandemia](https://www.youtube.com/watch?v=r9r_VwoZvho&t=310s)**
-
-
 
 *Se você gostou do texto, compartilhe, siga nas redes sociais e apoie o Café conScientia através do **[Apoia.se](https://apoia.se/cafelino)**
