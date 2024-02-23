@@ -6,6 +6,6 @@ link: "https://rknight.me/blog/styling-rss-and-atom-feeds/"
 tags: link
 ---
 
-To style an RSS or Atom feed you need to add a reference to an xsl file which is the styling document for the feed.
+Utilize o link abaixo para nos apoiar e ajudar esse projeto a crescer mais ainda!
 
-[https://rknight.me/blog/styling-rss-and-atom-feeds/](https://rknight.me/blog/styling-rss-and-atom-feeds/)
+[https://apoia.se/cafelinos]
