@@ -42,8 +42,5 @@ Fontes e sugestões:
 **[Filme - Adeus, Lênin](https://www.youtube.com/watch?v=WjViOCJysuI)**
 **[Nerdologia - Abolicionismo e fim da escravidão](https://www.youtube.com/watch?v=wgwM-5b6q5U)**
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=cafeconscie04-20&language=pt_BR&marketplace=amazon&region=BR&placement=B007W6QHHA&asins=B007W6QHHA&linkId=fab93eb8970a016f7b64a73fcf3ed2f1&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=cafeconscie04-20&language=pt_BR&marketplace=amazon&region=BR&placement=8571399662&asins=8571399662&linkId=e6568ef7e0534966ce88f6b45b173f4d&show_border=true&link_opens_in_new_window=true"></iframe>
 
-
-*Se você gostou do texto, compartilhe, siga nas redes sociais e apoie o Café conScientia através do **[Apoia.se](https://apoia.se/cafeconscientia)**
+*Se você gostou do texto, compartilhe, siga nas redes sociais e apoie o Café conScientia através do **[Apoia.se](https://apoia.se/cafelino)**

@@ -38,5 +38,6 @@ Fontes e Sugestões:
 **[Spinal muscular atrophy](https://www.scielo.br/pdf/jped/v86n4/a04v86n4.pdf)**
 **[Por que o Zolgensma é tão caro?](https://pt.quora.com/Por-que-o-rem%C3%A9dio-para-a-AME-Zolgensma-%C3%A9-t%C3%A3o-caro)**
 **[BBC](https://www.bbc.com/portuguese/internacional-49287261)**
+https://amzn.to/3SMTcGt
 
-*Se você gostou do texto, compartilhe, siga nas redes sociais e apoie o Café conScientia através do **[Apoia.se](https://apoia.se/cafeconscientia)**
+*Se você gostou do texto, compartilhe, siga nas redes sociais e apoie o Café conScientia através do **[Apoia.se](https://apoia.se/cafelino)**

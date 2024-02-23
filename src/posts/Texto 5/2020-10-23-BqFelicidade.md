@@ -42,7 +42,6 @@ Fontes e sugestões:
 **[Nerdologia - Nootrópicos e Doping Mental](https://www.youtube.com/watch?v=y1trAtccL2w)**
 **[The Role of Dopamine and Its Dysfunction as a Consequence of Oxidative Stress](http://downloads.hindawi.com/journals/omcl/2016/9730467.pdf)**
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=cafeconscie04-20&language=pt_BR&marketplace=amazon&region=BR&placement=8535928197&asins=8535928197&linkId=a21e02147bd142013b167286c31f6d8d&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=cafeconscie04-20&language=pt_BR&marketplace=amazon&region=BR&placement=8525432180&asins=8525432180&linkId=582a44b0e05bb35b34d2a7efc8268cc7&show_border=true&link_opens_in_new_window=true"></iframe>
+https://amzn.to/3SMTcGt
 
-*Se você gostou do texto, compartilhe, siga nas redes sociais e apoie o Café conScientia através do **[Apoia.se](https://apoia.se/cafeconscientia)**
+*Se você gostou do texto, compartilhe, siga nas redes sociais e apoie o Café conScientia através do **[Apoia.se](https://apoia.se/cafelino)**
